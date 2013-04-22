@@ -3,7 +3,7 @@
 This is a sample text-based adventure for my as-of-yet-unnamed library for 
 making text-based adventures.
 
-[Try it out!](https://github.io/Osmose/sample-adventure)
+[Try it out!](http://osmose.github.io/sample-adventure/)
 
 
 ## Features
